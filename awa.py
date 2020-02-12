@@ -4,6 +4,9 @@ Created on Sun Jan 26 14:34:41 2020
 
 @author: Livan Martinez
 """
+#awawawawawa
+
+
 #problema de la cola de feria pendiente por terminar
 """        
 def organizar(queue,contador,vueltas):
